@@ -35,7 +35,7 @@ README.md       # Project documentation
 ## Future Work
 - Collect more observations in rat-absent conditions.
 - Use mixed-effects models to account for repeated measures.
-- Infulence of Weather on both animals food competition.
+- Influence of Weather on both animals food competition.
 
 
 
