@@ -1,6 +1,6 @@
 # S225-HIT140-FOUNDATIONS-OF-DATA-SCIENCE
 
-## Authors
+## Team Members:
 - Sansuwa Shrestha
 - Goruni_1
 - Goruni_2
