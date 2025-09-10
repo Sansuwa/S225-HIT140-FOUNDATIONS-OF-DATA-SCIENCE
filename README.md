@@ -19,7 +19,7 @@ This repository contains the data, analysis, and report for a study on how bats 
 
 ## Key Findings
 - 901 of 907 bat landings occurred after rat arrival → limited comparison with rat-absent conditions.
-- **Reward** was the strongest predictor of risk-taking (odds ratio ≈ 0.05, p < 0.001).
+- **Rat** was the strongest predictor of risk-taking (odds ratio ≈ 0.05, p < 0.001).
 - **Seconds after rat arrival** and **hours after sunset** were not significant predictors.
 - Behavioural differences with and without rats could not be directly assessed.
 
