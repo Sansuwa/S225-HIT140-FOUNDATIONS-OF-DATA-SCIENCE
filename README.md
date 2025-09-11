@@ -2,7 +2,7 @@
 
 ## Team Members:
 - Sansuwa Shrestha
-- Goruni_1
+- Binu Regmi
 - Goruni_2
 - Goruni_3
 
