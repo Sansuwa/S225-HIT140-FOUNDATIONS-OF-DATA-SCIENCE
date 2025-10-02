@@ -5,7 +5,7 @@
 - Sansuwa Shrestha
 - Binu Regmi
 - Shanti Moktan
-- Goruni_3
+- Sejal Pradhan
 
 # Investigation A: Bat Risk-taking in Presence of Rats
 
