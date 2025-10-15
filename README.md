@@ -3,8 +3,8 @@
 ## Team Members:
 
 - Sansuwa Shrestha
-- Binu Regmi
 - Shanti Moktan
+- Binu Regmi
 - Sejal Pradhan
 
 # Investigation A: Bat Risk-taking in Presence of Rats
